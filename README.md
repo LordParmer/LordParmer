@@ -13,7 +13,7 @@ I work where data engineering meets GxP: turning manufacturing, quality, and ERP
 ## 🚀 Current focus
 
 - 🛠️ Building open-source tools for Databricks in regulated environments *(first release coming soon)*
-- ✍️ Writing about Databricks, data engineering, and GxP at **[yourdomain.dev](https://yourdomain.dev)**
+- ✍️ Writing about Databricks, data engineering, and GxP at **[ethanparmer.dev](https://ethanparmer.dev)**
 - 📚 Working toward Databricks certifications
 
 ## 🧰 Toolbox
