@@ -34,6 +34,6 @@ MBA · MHA · Harvard Business Analytics Program (cHBAP) · B.A. Healthcare Admi
 
 ## 🤝 Connect
 
-[Blog](https://yourdomain.dev) · [LinkedIn](https://www.linkedin.com/in/your-handle) · [Databricks Community](https://community.databricks.com/)
+[Blog](https://ethanparmer.dev) · [LinkedIn](https://www.linkedin.com/in/ethan-parmer-mba-mha-chbap-a99718126/) · [Databricks Community](https://community.databricks.com/)
 
 <sub>Views are my own. Code and writing here are personal projects and are not affiliated with or endorsed by my employer.</sub>
